@@ -1,7 +1,4 @@
-# Laboratory Work 1: ERD Diagram for International Airport System
-
-**Course Name:** Databases  
-**Student:** Ернұрқызы Ақнұр  
+# Lab1
 
 ---
 
